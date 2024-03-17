@@ -1,0 +1,8 @@
+D:\NewDokumente\SharpDevelop Projects\HWGCEditor\HWGCEditor\bin\Debug\HWGCEditor.exe.config
+D:\NewDokumente\SharpDevelop Projects\HWGCEditor\HWGCEditor\bin\Debug\HWGCEditor.exe
+D:\NewDokumente\SharpDevelop Projects\HWGCEditor\HWGCEditor\bin\Debug\HWGCEditor.pdb
+D:\NewDokumente\SharpDevelop Projects\HWGCEditor\HWGCEditor\obj\Debug\HWGCEditor.csprojResolveAssemblyReference.cache
+D:\NewDokumente\SharpDevelop Projects\HWGCEditor\HWGCEditor\obj\Debug\HWGCEditor.MainForm.resources
+D:\NewDokumente\SharpDevelop Projects\HWGCEditor\HWGCEditor\obj\Debug\HWGCEditor.csproj.GenerateResource.Cache
+D:\NewDokumente\SharpDevelop Projects\HWGCEditor\HWGCEditor\obj\Debug\HWGCEditor.exe
+D:\NewDokumente\SharpDevelop Projects\HWGCEditor\HWGCEditor\obj\Debug\HWGCEditor.pdb
